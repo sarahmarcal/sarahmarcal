@@ -47,8 +47,7 @@
     alt="After Effects"
     title="After Effects" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"" 
+    style="padding-right: 10px;"              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"
 />
 <img 
     align="left" 
@@ -109,7 +108,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-**Aprendizado & IA:**  
+##**Aprendizado & IA:**  
 FreeCodeCamp · Exercism · Scrimba · ChatGPT · Make/Zapier
 ---
 
