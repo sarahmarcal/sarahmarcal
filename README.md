@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Sobre mim | About me
+##  Sobre mim | About me
 
 - 🎓 Formada em **Desenvolvimento de Sistemas** (ETEC de Guaianazes)
 - 👩‍🎓 Estudante de Design na UFPel
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧰 Tecnologias | Technologies
+##  Tecnologias | Technologies
 
 **Design & Prototipação:**  
 Figma · Adobe XD · Photoshop · After Effects
@@ -28,7 +28,7 @@ FreeCodeCamp · Exercism · Scrimba · ChatGPT · Make/Zapier
 
 ---
 
-## 📫 Vamos conversar?
+##  Vamos conversar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/s4rr4hmarcal/)
 - 🎨 [Portfólio Behance](https://www.behance.net/sarahmarcal)
