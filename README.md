@@ -9,7 +9,7 @@
 
 - 🎓 Formada em **Desenvolvimento de Sistemas** (ETEC de Guaianazes)
 - 👩‍🎓 Estudante de Design na UFPel
-- 💻 Foco em **Front-end (JavaScript, HTML/CSS, Java)** + UI Design
+- 💻 Foco em **FullStack (JavaScript, HTML/CSS, Java)** + UI Design
 - 🤖 Entusiasta de **IA generativa e automações com propósito**
 - 🌍 Acredito em tecnologia ética, acessível e colaborativa
 
@@ -59,7 +59,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
 /><br>
 
-**Front-end & Lógica:**  
+**FullStack & Lógica:**  
 
 <img 
     align="left" 
