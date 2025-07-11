@@ -17,7 +17,8 @@
 
 ### 🤖 Tecnologias | Technologies
 
-**Design & Prototipação:**  
+**Design & Prototipação:**
+
 <img 
     align="left" 
     alt="Figma"
@@ -59,6 +60,7 @@
 />
 
 **Front-end & Lógica:**  
+
 <img 
     align="left" 
     alt="HTML"
@@ -108,7 +110,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-##**Aprendizado & IA:**  
+**Aprendizado & IA:**  
+
 FreeCodeCamp · Exercism · Scrimba · ChatGPT · Make/Zapier
 ---
 
