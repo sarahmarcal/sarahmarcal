@@ -9,7 +9,7 @@
 
 - 🎓 Formada em **Desenvolvimento de Sistemas** (ETEC de Guaianazes)
 - 👩‍🎓 Estudante de Design na UFPel
-- 💻 Foco em **FullStack (JavaScript, HTML/CSS, Java)** + UI Design
+- 💻 Foco em **FullStack (JavaScript, HTML/CSS, Java)** + UX/UI Design
 - 🤖 Entusiasta de **IA generativa e automações com propósito**
 - 🌍 Acredito em tecnologia ética, acessível e colaborativa
 
@@ -121,7 +121,7 @@ FreeCodeCamp · Exercism · Scrimba · ChatGPT · Make/Zapier
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/s4rr4hmarcal/)
 - 🎨 [Portfólio Behance](https://www.behance.net/sarahmarcal)
-- 📬 estudiosams@gmail.com
+- 📬 samsestudio@gmail.com
 
 ---
 
