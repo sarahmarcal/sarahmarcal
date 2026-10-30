@@ -6,6 +6,7 @@ and technical execution that actually makes sense**<br>
 Multidisciplinary by training,<br> 
 multiplataform by nature. <br>
 That's not only a soft skill that's the work. <br></p>*
+
 ---
 **about me**
 
