@@ -1,6 +1,8 @@
 **Oie, Olla, Hi, I'm Sarah <br>
-UX/UI & Product Designer with a multidisciplinary background in Digital Design <br>
-Visual Arts, and Systems Development. Bridging the gap between creative direction<br>
+UX/UI & Product Designer with a multidisciplinary<br>
+background in Digital Design <br>
+Visual Arts, and Systems Development. <br>
+Bridging the gap between creative direction<br>
 and technical execution that actually makes sense**<br>
 *<p>
 Multidisciplinary by training,<br> 
