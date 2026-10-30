@@ -1,11 +1,13 @@
 **Oie, Olla, Hi, I'm Sarah <br>
 UX/UI & Product Designer with a multidisciplinary background in Digital Design <br>
 Visual Arts, and Systems Development. Bridging the gap between creative direction<br>
-and technical execution that actually makes sense** <br>
-
+and technical execution that actually makes sense**<br>
+<p>
 **Multidisciplinary by training,<br> 
 multiplataform by nature. <br>
-That's not only a soft skill that's the work.** <br>
+That's not only a soft skill that's the work.** <br></p>
+
+
 ---
 
 # about me
@@ -118,9 +120,9 @@ FreeCodeCamp · Exercism · Scrimba · ChatGPT · Make/Zapier
 
 ##  lets talk :) ?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/s4rr4hmarcal/)
-- 🎨 [Portfólio Behance](https://www.behance.net/sarahmarcal)
-- 📬 samsestudio@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/s4rr4hmarcal/)
+🎨 [Portfólio Behance](https://www.behance.net/sarahmarcal)
+📬 samsestudio@gmail.com
 
 ---
 
