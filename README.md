@@ -1,18 +1,18 @@
-Oie, Olla, Hi, I'm Sarah 
-UX/UI & Product Designer with a multidisciplinary background in Digital Design 
-Visual Arts, and Systems Development. Bridging the gap between creative direction
-and technical execution that actually makes sense.
+Oie, Olla, Hi, I'm Sarah <br>
+UX/UI & Product Designer with a multidisciplinary background in Digital Design <br>
+Visual Arts, and Systems Development. Bridging the gap between creative direction<br>
+and technical execution that actually makes sense.<br>
 
 ---
 
-## About me
+# About me
 
-🎓  Design Digital - Universidade Federal de Pelotas (UFPel)
-Visual Arts - Anhanguera 
-Tecnico em **Desenvolvimento de Sistemas** - ETEC de Guaianazes
-AI Enthusiastic 
+🎓  Design Digital - Universidade Federal de Pelotas (UFPel)<br>
+Visual Arts - Anhanguera <br>
+Tecnico em **Desenvolvimento de Sistemas** - ETEC de Guaianazes<br>
+AI Enthusiastic <br>
 
-Tecnologias | Technologies
+Tecnologias | Technologies<br>
 
 **Design & Prototipação:**
 
