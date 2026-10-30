@@ -9,7 +9,7 @@ That's not only a soft skill that's the work. <br></p>*
 <br>
 
 ---
-*about me
+**about me**
 
 🎓  Design Digital - Universidade Federal de Pelotas (UFPel)<br>
 Visual Arts - Anhanguera <br>
