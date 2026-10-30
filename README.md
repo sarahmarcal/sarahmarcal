@@ -1,11 +1,14 @@
-Oie, Olla, Hi, I'm Sarah <br>
+#Oie, Olla, Hi, I'm Sarah <br>
 UX/UI & Product Designer with a multidisciplinary background in Digital Design <br>
 Visual Arts, and Systems Development. Bridging the gap between creative direction<br>
 and technical execution that actually makes sense.<br>
 
+*Multidisciplinary by training,<br> 
+multiplataform by nature. <br>
+That's not only a soft skill that's the work.* <br>
 ---
 
-# About me
+# about me
 
 🎓  Design Digital - Universidade Federal de Pelotas (UFPel)<br>
 Visual Arts - Anhanguera <br>
@@ -121,4 +124,4 @@ FreeCodeCamp · Exercism · Scrimba · ChatGPT · Make/Zapier
 - 📬 samsestudio@gmail.com
 
 ---
-Multidisciplinary by training, multiplataform by nature. That's not only a soft skill that's the work. 
+
