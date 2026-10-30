@@ -1,12 +1,11 @@
-# Oi, eu sou a Sarah 👋 | Hi, I'm Sarah 👩‍💻
-
+Oie, Olla, Hi, I'm Sarah 
 UX/UI & Product Designer with a multidisciplinary background in Digital Design 
 Visual Arts, and Systems Development. Bridging the gap between creative direction
 and technical execution that actually makes sense.
 
 ---
 
-##  Sobre mim | About me
+## About me
 
 🎓  Design Digital - Universidade Federal de Pelotas (UFPel)
 Visual Arts - Anhanguera 
