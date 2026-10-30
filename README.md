@@ -1,21 +1,19 @@
 # Oi, eu sou a Sarah 👋 | Hi, I'm Sarah 👩‍💻
 
-🎨 Product Designer & Dev híbrida apaixonada por **UX/UI, código e IA**.  
-💡 Busco construir soluções digitais que combinem criatividade, tecnologia e impacto social.
+UX/UI & Product Designer with a multidisciplinary background in Digital Design 
+Visual Arts, and Systems Development. Bridging the gap between creative direction
+and technical execution that actually makes sense.
 
 ---
 
 ##  Sobre mim | About me
 
-- 🎓 Formada em **Desenvolvimento de Sistemas** (ETEC de Guaianazes)
-- 👩‍🎓 Estudante de Design na UFPel
-- 💻 Foco em **FullStack (JavaScript, HTML/CSS, Java)** + UX/UI Design
-- 🤖 Entusiasta de **IA generativa e automações com propósito**
-- 🌍 Acredito em tecnologia ética, acessível e colaborativa
+🎓  Design Digital - Universidade Federal de Pelotas (UFPel)
+Visual Arts - Anhanguera 
+Tecnico em **Desenvolvimento de Sistemas** - ETEC de Guaianazes
+AI Enthusiastic 
 
----
-
-### 🤖 Tecnologias | Technologies
+Tecnologias | Technologies
 
 **Design & Prototipação:**
 
@@ -117,13 +115,11 @@ FreeCodeCamp · Exercism · Scrimba · ChatGPT · Make/Zapier
 
 ---
 
-##  Vamos conversar?
+##  lets talk :) ?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/s4rr4hmarcal/)
 - 🎨 [Portfólio Behance](https://www.behance.net/sarahmarcal)
 - 📬 samsestudio@gmail.com
 
 ---
-
-✨ *Tecnologia é ferramenta para criar experiências mais humanas. Vamos construir algo juntos?*
-
+Multidisciplinary by training, multiplataform by nature. That's not only a soft skill that's the work. 
