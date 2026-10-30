@@ -2,10 +2,10 @@
 UX/UI & Product Designer with a multidisciplinary background in Digital Design <br>
 Visual Arts, and Systems Development. Bridging the gap between creative direction<br>
 and technical execution that actually makes sense**<br>
-<p>
-**Multidisciplinary by training,<br> 
+*<p>
+Multidisciplinary by training,<br> 
 multiplataform by nature. <br>
-That's not only a soft skill that's the work.** <br></p>
+That's not only a soft skill that's the work. <br></p>*
 
 
 ---
